@@ -1,0 +1,45 @@
+.jacket-women{
+    width: 50%;
+    margin-left: 25%;
+}
+.jacket-women-mid{
+    width: 38%;
+    margin-left: 25%;
+}
+.jacket-women-last{
+    width: 42%;
+    margin-left: 25%;
+    
+}
+.jacket-man-mid{
+    width: 58%;
+    margin-left: 25%;
+}
+.last-img{
+    width:80%;
+    height: 80%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+h4{
+    font-weight: 700;
+}
+.last-text{
+    margin-left: 10%;
+}
+.button-all{
+    color: white;
+    background-color: rgb(150, 189, 84);
+    margin-top: 5px;
+   
+}
+.last-text-START{
+    margin-left: 13%;
+}
+.extra-work{
+    background-color: rgb(150, 189, 84);
+}
+
+#last-button{
+    background-color: goldenrod;
+}
